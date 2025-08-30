@@ -34,7 +34,7 @@ export default function Header() {
             </a>
             <div className="flex items-center gap-3">
               <a 
-                href="https://github.com" 
+                href="https://github.com/ZainulabdeenOfficial/System-Design-Visualizer" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 text-gray-600 hover:text-primary-600 transition-colors"
@@ -42,7 +42,7 @@ export default function Header() {
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="https://twitter.com" 
+                href="https://twitter.com/zu44256" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 text-gray-600 hover:text-primary-600 transition-colors"
