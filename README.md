@@ -1,3 +1,7 @@
+
+![System Design Banner](https://github.com/ZainulabdeenOfficial/System-Design-Visualizer/blob/main/correct.png?raw=true)
+
+
 # System Design Visualizer 🏗️
 
 A beautiful, AI-powered web application that transforms system design text into stunning visual diagrams. Built with Next.js, React, and Tailwind CSS.
