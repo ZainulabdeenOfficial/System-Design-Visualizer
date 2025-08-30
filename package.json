@@ -1,0 +1,48 @@
+{
+  "name": "system-design-visualizer",
+  "version": "1.0.0",
+  "description": "A beautiful website for visualizing system designs from text input",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "framer-motion": "^10.16.4",
+    "gif.js": "^0.2.0",
+    "gifshot": "^0.4.5",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.294.0",
+    "next": "^14.0.0",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "remark-gfm": "^4.0.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/mdast": "^4.0.4",
+    "@types/node": "^20.8.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "^14.0.0",
+    "typescript": "^5.2.0"
+  },
+  "keywords": [
+    "system-design",
+    "visualization",
+    "diagram",
+    "architecture",
+    "react",
+    "nextjs"
+  ],
+  "author": "System Design Visualizer",
+  "license": "MIT"
+}

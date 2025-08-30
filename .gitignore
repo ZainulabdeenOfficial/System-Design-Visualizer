@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env*
+
+# TypeScript build info
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# Misc
+coverage/
+*.log
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Others
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
